@@ -1,5 +1,6 @@
 //Victor Pueyo
 //Chapter 9 Homework 3
+//Array Expander 
 
 #include <iostream>
 
